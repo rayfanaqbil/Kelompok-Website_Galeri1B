@@ -1,4 +1,4 @@
 # Kelompok-Website_Galeri1B
-Mochammad Rayfan Aqbillah
-Devi Wulandari
-Ruth Diana Purnamasari Sagala
+Mochammad Rayfan Aqbillah<br>
+Devi Wulandari<br>
+Ruth Diana Purnamasari Sagala<br>
